@@ -1,0 +1,8 @@
+title: Amethyst
+description: Terms of Service and Privacy Policy for the Amethyst network of Discord apps.
+theme: minima
+baseurl: /amethyst-legal
+url: https://sisi-j.github.io
+header_pages:
+  - terms.md
+  - privacy.md

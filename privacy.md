@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-**Last updated: 25 September 2026**
+**Last updated: 26 September 2026**
 
 This policy explains what the Amethyst network of Discord apps (**Donut
 Verify**, **Global Schematics**, **Donut Server Trust** and **Amethyst Team
@@ -131,7 +131,7 @@ Deleted data can remain in backups until those backups expire.
   [this site's GitHub repository](https://github.com/sisi-j/amethyst-legal/issues/new)
   asking for deletion. Issues are **public**, so include only your Discord
   username; we'll confirm it's you over Discord and then delete it.
-- **Follows:** `/schematic unwatch` stops DMs at any time.
+- **Follows:** `/schematic watch` lets you untick categories, or stop all alerts, at any time.
 - Server admins can remove any app from their server at any time.
 
 Depending on where you live (for example under the GDPR in the EU/UK or

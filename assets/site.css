@@ -85,7 +85,7 @@ img, svg { display: block; }
   padding: 24px; box-shadow: var(--shadow);
 }
 .app-head { display: flex; align-items: center; gap: 14px; margin-bottom: 14px; }
-.app-icon { flex: none; display: grid; place-items: center; width: 48px; height: 48px; border-radius: 12px; background: var(--accent-soft); color: var(--accent-text); }
+.app-logo { flex: none; width: 56px; height: 56px; border-radius: 14px; box-shadow: 0 0 0 1px var(--border); }
 .app h2 { margin: 0; font-size: 21px; line-height: 1.2; }
 .app .tagline { margin: 2px 0 0; color: var(--muted); font-size: 15px; }
 .app ul { margin: 0 0 18px; padding-left: 20px; }

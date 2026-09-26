@@ -1,8 +1,4 @@
 title: Amethyst
-description: Terms of Service and Privacy Policy for the Amethyst network of Discord apps.
-theme: minima
+description: Free Discord apps for the DonutSMP community — Donut Verify, Global Schematics and Donut Server Trust.
 baseurl: /amethyst-legal
 url: https://sisi-j.github.io
-header_pages:
-  - terms.md
-  - privacy.md
